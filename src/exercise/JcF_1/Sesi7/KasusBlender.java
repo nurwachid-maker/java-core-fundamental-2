@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package exercise.Jcf_1.Sesi7;
+package exercise.JcF_1.Sesi7;
 
 /**
  *
