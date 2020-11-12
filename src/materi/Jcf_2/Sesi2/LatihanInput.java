@@ -13,11 +13,14 @@ import java.util.Scanner;
  */
 public class LatihanInput {
     public static void main(String[] args) {
+        // System.out.println("Nama mu : ");  --> get kursor dbawah
+        // System.out.print("Nama mu : ");  --> get kursor disamping
+        
         Scanner in = new Scanner(System.in);
-        System.out.println("Nama mu? : ");
+        System.out.print("Nama mu? : ");
         String nama= in.nextLine();
         
-        System.out.println("Kode ? :");
+        System.out.print("Kode ? :");
         int nilaiAnda= in.nextInt();
         
         System.out.println("=======================");

@@ -21,7 +21,7 @@ public class FutureResto {
 
     private void inputNamaMasakan() {
         Scanner bacaan = new Scanner(System.in);
-        System.out.println("Nama Masakan : ");
+        System.out.print("Nama Masakan : ");
         String masukan = bacaan.nextLine();
 
         Latihan1.buatFolder(masukan);

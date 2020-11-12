@@ -96,9 +96,9 @@ public class FutureRestoInteraktif {
 
     private boolean terimaInput() {
         Scanner bacaan = new Scanner(System.in);
-        System.out.println(" - username : ");
+        System.out.print(" - username : ");
         String userId = bacaan.nextLine();
-        System.out.println(" - password : ");
+        System.out.print(" - password : ");
         String passw = bacaan.nextLine();
 
         if (userId.equals("admin")) {
