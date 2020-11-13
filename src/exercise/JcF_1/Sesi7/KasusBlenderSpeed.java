@@ -9,7 +9,7 @@ package exercise.JcF_1.Sesi7;
  *
  * @author WH
  */
-public class KasusBlender {
+public class KasusBlenderSpeed {
 
     int level = 0;
     String kondisiMesin = "Baru";
